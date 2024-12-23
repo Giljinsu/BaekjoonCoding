@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e077f167-71ac-4a34-b512-d11791fcb932" name="변경" comment="Commit old files">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B10942.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B17404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B17404.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B2668.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B2668.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Giljinsu/BaekjoonCoding.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:Giljinsu/BaekjoonCoding.git&quot;,
     &quot;accountId&quot;: &quot;61f08e43-fac6-4b21-8bf6-dd604fd333bb&quot;
   }
 }</component>
@@ -48,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.B10942.executor": "Run",
     "Application.B17404.executor": "Run",
     "Application.B2668.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -76,6 +75,20 @@
       <recent name="D:\Coding\StudyingCoding\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="B10942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B10942" />
+      <module name="StudyingCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.B10942" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,7 +111,9 @@
       <workItem from="1734414410232" duration="615000" />
       <workItem from="1734533519499" duration="1098000" />
       <workItem from="1734571528138" duration="601000" />
-      <workItem from="1734917586002" duration="13345000" />
+      <workItem from="1734917586002" duration="14451000" />
+      <workItem from="1734950770023" duration="79000" />
+      <workItem from="1734953568806" duration="6533000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
@@ -108,11 +123,30 @@
       <option name="project" value="LOCAL" />
       <updated>1734330687412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit old files">
+      <option name="closed" value="true" />
+      <created>1734936409662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734936409662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit old files" />
