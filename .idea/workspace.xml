@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e077f167-71ac-4a34-b512-d11791fcb932" name="변경" comment="Commit old files">
-      <change afterPath="$PROJECT_DIR$/src/B4179.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024__12__18___7_39___1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024__12__18__오후_7_39_[변경]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cd " beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cd .pub" beforeDir="false" />
-    </list>
+    <list default="true" id="e077f167-71ac-4a34-b512-d11791fcb932" name="변경" comment="Commit old files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +115,7 @@
       <workItem from="1735180650200" duration="37000" />
       <workItem from="1735208651007" duration="2000" />
       <workItem from="1735212011210" duration="15000" />
-      <workItem from="1735221800460" duration="23000" />
+      <workItem from="1735221800460" duration="434000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
