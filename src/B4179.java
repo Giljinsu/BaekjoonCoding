@@ -61,7 +61,7 @@ public class B4179 {
 
                 if(isFire == 0) {
                     if(nx == 0 || nx > m || ny == 0 ||ny > n) continue;
-                    if(graph[ny][nx] == '#' || graph[ny][nx] == 'J' || graph[ny][nx] == 'F') continue;
+                    if(graph[ny][nx] == '#' || graph[ny][nx] == 'F') continue;
                     graph[ny][nx] = 'F';
                 } else {
                     if(nx == 0 || nx > m || ny == 0 ||ny > n) {
