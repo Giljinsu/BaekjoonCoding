@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e077f167-71ac-4a34-b512-d11791fcb932" name="변경" comment="Commit old files">
-      <change afterPath="$PROJECT_DIR$/src/B1030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B17298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B20366.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B2143.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B4179.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B4179.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,10 @@
   "keyToString": {
     "Application.B1030.executor": "Run",
     "Application.B10942.executor": "Run",
+    "Application.B17298.executor": "Run",
     "Application.B17404.executor": "Run",
+    "Application.B20366.executor": "Run",
+    "Application.B2143.executor": "Run",
     "Application.B2668.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -122,7 +126,14 @@
       <workItem from="1735212011210" duration="15000" />
       <workItem from="1735221800460" duration="3699000" />
       <workItem from="1735264802543" duration="18000" />
-      <workItem from="1735264828411" duration="15247000" />
+      <workItem from="1735264828411" duration="15466000" />
+      <workItem from="1735522502879" duration="6000" />
+      <workItem from="1735555288006" duration="14077000" />
+      <workItem from="1735691303575" duration="13000" />
+      <workItem from="1735781533147" duration="6528000" />
+      <workItem from="1736131114786" duration="2485000" />
+      <workItem from="1736223480517" duration="607000" />
+      <workItem from="1736245660666" duration="7691000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
