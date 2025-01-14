@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e077f167-71ac-4a34-b512-d11791fcb932" name="변경" comment="Commit old files">
-      <change afterPath="$PROJECT_DIR$/src/B17299.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,38 +43,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.B1030.executor": "Run",
-    "Application.B10942.executor": "Run",
-    "Application.B17298.executor": "Run",
-    "Application.B17299.executor": "Run",
-    "Application.B17404.executor": "Run",
-    "Application.B20366.executor": "Run",
-    "Application.B2143.executor": "Run",
-    "Application.B2668.executor": "Run",
-    "Application.HashCollisionExample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Coding/StudyingCoding/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Coding/StudyingCoding/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.B14503.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.B1030.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B10942.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B11049.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B17298.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B17299.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B17404.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B20366.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B2143.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B2604.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B2668.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashCollisionExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding/StudyingCoding/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Coding/StudyingCoding/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.B14503.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Coding\StudyingCoding\src" />
@@ -136,7 +137,10 @@
       <workItem from="1736245660666" duration="9459000" />
       <workItem from="1736311270573" duration="6503000" />
       <workItem from="1736331078873" duration="19000" />
-      <workItem from="1736336044940" duration="1553000" />
+      <workItem from="1736336044940" duration="6425000" />
+      <workItem from="1736345535970" duration="585000" />
+      <workItem from="1736492974115" duration="8058000" />
+      <workItem from="1736740303506" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
@@ -174,6 +178,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit old files" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit old files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/B11049.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
