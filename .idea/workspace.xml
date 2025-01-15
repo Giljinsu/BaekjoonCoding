@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e077f167-71ac-4a34-b512-d11791fcb932" name="변경" comment="Commit old files">
-      <change afterPath="$PROJECT_DIR$/src/B1939.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B15684.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Application.B1030.executor": "Run",
     "Application.B10942.executor": "Run",
     "Application.B11049.executor": "Run",
+    "Application.B15684.executor": "Run",
     "Application.B17298.executor": "Run",
     "Application.B17299.executor": "Run",
     "Application.B17404.executor": "Run",
@@ -143,7 +144,9 @@
       <workItem from="1736345535970" duration="585000" />
       <workItem from="1736492974115" duration="8058000" />
       <workItem from="1736740303506" duration="11000" />
-      <workItem from="1736850675507" duration="12617000" />
+      <workItem from="1736850675507" duration="12890000" />
+      <workItem from="1736915148498" duration="6000" />
+      <workItem from="1736938239392" duration="4804000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
