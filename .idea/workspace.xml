@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e077f167-71ac-4a34-b512-d11791fcb932" name="변경" comment="Commit old files">
-      <change afterPath="$PROJECT_DIR$/src/B15684.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +46,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.B1030.executor": "Run",
-    "Application.B10942.executor": "Run",
+    "Application.B10942.executor": "Debug",
     "Application.B11049.executor": "Run",
+    "Application.B13904.executor": "Run",
     "Application.B15684.executor": "Run",
     "Application.B17298.executor": "Run",
     "Application.B17299.executor": "Run",
@@ -65,7 +65,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Coding/StudyingCoding/src",
+    "last_opened_file_path": "/Users/giljinsu/IdeaProjects/BaekjoonCoding",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +75,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.B14503.executor": "Run"
   }
@@ -146,7 +146,13 @@
       <workItem from="1736740303506" duration="11000" />
       <workItem from="1736850675507" duration="12890000" />
       <workItem from="1736915148498" duration="6000" />
-      <workItem from="1736938239392" duration="4804000" />
+      <workItem from="1736938239392" duration="5584000" />
+      <workItem from="1737096550301" duration="1451000" />
+      <workItem from="1737109514407" duration="5000" />
+      <workItem from="1737110512014" duration="189000" />
+      <workItem from="1737346445451" duration="12000" />
+      <workItem from="1737368901485" duration="49000" />
+      <workItem from="1737368957407" duration="8766000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
@@ -217,6 +223,11 @@
           <url>file://$PROJECT_DIR$/src/B1939.java</url>
           <line>13</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/B13904.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
