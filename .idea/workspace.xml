@@ -88,7 +88,7 @@
       <recent name="D:\Coding\StudyingCoding\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.B1976">
     <configuration name="B10942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B10942" />
       <module name="StudyingCoding" />
@@ -96,8 +96,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B1976" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B1976" />
+      <module name="StudyingCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B1976" />
         <item itemvalue="Application.B10942" />
       </list>
     </recent_temporary>
@@ -161,7 +169,7 @@
       <workItem from="1737535771516" duration="16329000" />
       <workItem from="1737688710863" duration="227000" />
       <workItem from="1737707332371" duration="656000" />
-      <workItem from="1737977811875" duration="2441000" />
+      <workItem from="1737977811875" duration="4187000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
