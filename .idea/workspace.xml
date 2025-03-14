@@ -49,9 +49,12 @@
     "Application.B1043.executor": "Run",
     "Application.B10942.executor": "Run",
     "Application.B11049.executor": "Run",
+    "Application.B1202.executor": "Run",
     "Application.B13904.executor": "Run",
+    "Application.B14725.executor": "Run",
     "Application.B1504.executor": "Run",
     "Application.B15684.executor": "Run",
+    "Application.B16120.executor": "Run",
     "Application.B17298.executor": "Run",
     "Application.B17299.executor": "Run",
     "Application.B17404.executor": "Run",
@@ -100,6 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B14725" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B14725" />
+      <module name="StudyingCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B1937" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B1937" />
       <module name="StudyingCoding" />
@@ -117,6 +127,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.B1937" />
+        <item itemvalue="Application.B14725" />
         <item itemvalue="Application.B1976" />
         <item itemvalue="Application.B10942" />
       </list>
@@ -190,7 +201,13 @@
       <workItem from="1739182033550" duration="8719000" />
       <workItem from="1739524113588" duration="5867000" />
       <workItem from="1739794393408" duration="748000" />
-      <workItem from="1739795498722" duration="1849000" />
+      <workItem from="1739795498722" duration="2067000" />
+      <workItem from="1739875227296" duration="14000" />
+      <workItem from="1740560370445" duration="2196000" />
+      <workItem from="1740562940299" duration="11903000" />
+      <workItem from="1741338932273" duration="5375000" />
+      <workItem from="1741570487288" duration="4000" />
+      <workItem from="1741939302151" duration="7074000" />
     </task>
     <task id="LOCAL-00001" summary="Commit old files">
       <option name="closed" value="true" />
@@ -286,11 +303,6 @@
           <url>file://$PROJECT_DIR$/src/B2931.java</url>
           <line>100</line>
           <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/B1937.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="188" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
